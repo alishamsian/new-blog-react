@@ -1,0 +1,32 @@
+.SearchBar-wrap{
+    background-color: #f0f0f0;
+    width: fit-content;
+    margin: 2.5rem auto 4rem auto;
+    padding: 0.5rem ;
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+}
+.SearchBar-wrap input{
+    background-color: #f0f0f0;
+    outline: none;
+    border: none;
+}
+.SearchBar-wrap span{
+    padding-right: 0.5rem;
+    cursor: pointer;
+}
+.SearchBar-wrap button{
+    outline: none;
+    border: none;
+    padding: 0.3rem 1rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: #0f52ba;
+    color: #fff;
+}
